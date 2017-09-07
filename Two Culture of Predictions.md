@@ -8,6 +8,6 @@ SPS usually contains strong signal while the structure of the signal is hard to 
 WPS, on the other hand, is composed of huge amount of noise with a little bit signal. Heavy tools usually result in overfitting. If you apply deep learning to stock market, all you are going to get are the features of Brownian Motion. 
 (See [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02). You wouldn't believe any kind of signal is in the form of fractal, would you?) 
 
-There are two prevalent ways on handling WPS. You can either predict with light but robust tools (like linear models, SVM ..) or you can built a statistical model to get the future distribution by simulation. 
+There are two prevalent ways on handling WPS. You can either predict with easy but robust tools (like linear models, SVM ..) or you can built a statistical model to get the future distribution by simulation. 
 
 (To be continued...) 
